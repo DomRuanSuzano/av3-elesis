@@ -1,0 +1,8 @@
+Qual deve ser a instrução em linguagem de máquina (sequência de 18 bits) para o comando: "addw (%A), (%A), %A" na CPU modificada?
+
+instrução tem que ser = "10" & "011" & "000010" & "0001" & "000"
+
+
+Qual deve ser a instrução em linguagem de máquina (sequência de 18 bits) para o comando: "addw (%A), %A, %D" na CPU modificada?
+
+instrução tem que ser = "10" & "010" & "000010" & "0010" & "000"
